@@ -1,0 +1,69 @@
+/* Send a gift button */
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+/* Volume slider */
+.volumeButton-2XwKVs.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.alignCenter-1dQNNs.justifyEnd-2E6vba.da-volumeButton.da-vertical.da-flex.da-directionColumn.da-alignCenter.da-justifyEnd {
+    display: none;
+}
+
+/* Pop out */
+button[aria-label="Pop Out"] {
+    display: none;
+}
+
+/* Inbox */
+div[aria-label="Recent Mentions"] {
+    display: none;
+}
+
+/* Help button */
+a[href="https://support.discordapp.com"] {
+    display: none;
+}
+
+/* Add friends to DM */
+div[aria-label="Add Friends to DM"] {
+    display: none;
+}
+
+/* Krisp */
+button[aria-label="Noise Suppression powered by Krisp"] {
+    display: none;
+}
+
+/* Nitro */
+a.channel-2QD9_O.da-channel.container-2Pjhx-.da-container.clickable-1JJAn8.da-clickable[href="/store"] {
+    display: none;
+}
+
+/* Hide chat */
+button[aria-label="Hide chat"] {
+    display: none;
+}
+
+/* Show chat */
+button[aria-label="Show chat"] {
+    display: none;
+}
+
+/* Show Members */
+button[aria-label="Show Members"] {
+    display: none;
+}
+
+/* Grid */
+button[aria-label="Grid"] {
+    display: none;
+}
+
+/* Create DM */
+div.privateChannelRecipientsInviteButtonIcon-3A3uTc.da-privateChannelRecipientsInviteButtonIcon.iconWrapper-2OrFZ1.da-iconWrapper.clickable-3rdHwn.da-clickable.focusable-1YV_-H.da-focusable[aria-label="Create DM"] {
+    display: none;
+}
+
+/* Buttons del server (cam i live) */
+div.actionButtons-14eAc_.da-actionButtons {
+    display: none;
+}
